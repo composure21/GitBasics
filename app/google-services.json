@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935360510980",
+    "project_id": "firebasics-fa3a1",
+    "storage_bucket": "firebasics-fa3a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935360510980:android:5f9f7f0b87f50145a9c951",
+        "android_client_info": {
+          "package_name": "com.example.gitbasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPkKRT5RuL4QSz7i3uXDGkMuy85OowScU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
